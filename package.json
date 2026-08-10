@@ -6,7 +6,7 @@
     "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.2.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-waypoint": "^9.0.2",
     "styled-components": "^4.3.2"
   },
@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "dotenv": "^8.0.0",
-    "eslint": "^5.16.0",
+    "eslint": "^10.8.1",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
